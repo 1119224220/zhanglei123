@@ -1,12 +1,12 @@
 {
-    "name": "chenjie/hello",
+    "name": "zhanglei/hello",
     "description": "echo hello world",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
         {
-            "name": "chenjie",
-            "email": "chenjie@chenjie.info"
+            "name": "zhanglei",
+            "email": "1119224220@qq.com"
         }
     ],
     "minimum-stability": "dev",
