@@ -1,13 +1,25 @@
 {
-    "name": "zhangsan/test",
+    "name": "chenjie/hello",
+    "description": "echo hello world",
+    "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "zhanglei",
-            "email": "1119224220@qq.com"
+            "name": "chenjie",
+            "email": "chenjie@chenjie.info"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-4": { "zhanglei\\test\\": "src" }
+        "psr-4": {
+            "zhanglei\\": "src/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }

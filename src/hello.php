@@ -6,7 +6,7 @@
  * Time: 下午2:07
  * @introduce
  */
-
+namespace zhanglei;
 class hello
 {
 
