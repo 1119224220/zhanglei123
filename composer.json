@@ -1,0 +1,13 @@
+{
+    "name": "zhangsan/test",
+    "authors": [
+        {
+            "name": "zhanglei",
+            "email": "1119224220@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "zhanglei\\test\\": "src" }
+    }
+}
